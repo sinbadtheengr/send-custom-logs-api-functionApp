@@ -22,10 +22,10 @@ namespace OIApiFunctionApp
         //static string json = @"[{""DemoField1"":""DemoValue1"",""DemoField2"":""DemoValue2""},{""DemoField3"":""DemoValue3"",""DemoField4"":""DemoValue4""}]";
 
         // Update customerId to your Log Analytics workspace ID
-        //static string customerId = "40f80dd6-5fac-4a2c-aefd-ccd65b08ac12";
+        //static string customerId = "";
 
         // For sharedKey, use either the primary or the secondary Connected Sources client authentication key   
-        //static string sharedKey = "j3gBS58TpqbI38yrSasJqUzFQI+vGv23gIXst939bOmQjFw91GPBPqMiYJ06YcN1Ts7B+m0zniZ2jMHDwkxjsA==";
+        //static string sharedKey = "";
 
         // LogName is name of the event type that is being submitted to Azure Monitor
         //static string LogName = "DemoExample";
